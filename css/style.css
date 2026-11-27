@@ -17,5 +17,26 @@
     --card: #F1E1CE;
     --icon : 15px 15px;
     --margin-header : 4rem;
+    color :#3f3e3e;
 
+}
+
+h1,h2{
+    font-family: 'Syne', sans-serif;
+    
+}
+
+i{
+    color: #C65D3B;
+}
+
+p{
+    font-family: 'Outfit', sans-serif;
+    color: #a6a09b;
+    font-size:16px;
+    
+}
+h4,h3,h5,h6{
+    font-family: 'Inter', sans-serif;
+   
 }
